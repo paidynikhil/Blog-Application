@@ -1,6 +1,8 @@
+import Navbar from "./components/navbar.component";
+
 const App = () => {
     return (
-        <h1>Welcome to Nikhil Blog application.</h1>
+        <Navbar/>
     )
 }
 
